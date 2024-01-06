@@ -1,0 +1,72 @@
+body {
+    background-color: #aa272f;
+    font-family: 'Handlee';
+    margin: 0px;
+}
+.pil {
+    position: fixed;
+    left: 10px;
+    top: 10px;
+}
+.rubrik {
+	margin-left: 570px;
+	margin-top: 5px;
+	font-size: 50px;
+	font-weight: bold;
+	color: #aa272f;
+	z-index: 3;
+}
+.text {
+	font-size: 23px;
+	max-width: 100%;
+	padding-left: 60px;
+	padding-top: 5px; 
+	
+}
+#left-container {
+	width: 15%;
+	left: 60px;
+	top: 60px;
+	position: absolute;
+	height: 100%;	
+}
+
+.bild-plats {
+	position: relative;
+	height: 22%;
+	left: 10px;
+}
+
+.bild {
+	position: absolute;
+	max-width: 100%;
+	max-height: 100%;
+	z-index: 2;
+}
+.kontakta {
+		position: fixed;
+		right: 10px;
+		top: 0;
+}
+.right-container {
+	height: 100%;
+	width: 100%;
+	background-color: rgba(204, 197, 160, 0.5);
+	border-left-style: solid;
+	position: fixed;
+	bottom: 0;
+	left: 20%;
+	z-index: 1;
+	
+}
+.kalender {
+	position: fixed;
+	right: 50px;
+	bottom: 0px;
+	opacity: 0.7;
+}
+
+
+
+
+

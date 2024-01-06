@@ -1,0 +1,48 @@
+body {
+  background-image: url("bilder/bakgrund1.png");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  font-family: 'Handlee';
+}
+.pil {
+  position: fixed;
+  left: 10px;
+  top: 10px;
+  background-color: #fafafa;
+  border-radius: 10px;
+  border: solid black;
+}
+.pil:hover {
+  opacity: 0.8;
+}
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+h2 {
+  color: white;
+  text-align: center;
+
+}
+h1 {
+    color: red;
+    font-size: 40px;
+    text-align: center;
+}
+p {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+img {
+  max-width: 50%; 
+  height: auto; 
+  display: block; 
+  margin: 0 auto; 
+}

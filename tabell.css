@@ -1,0 +1,50 @@
+body {
+    background-color: #aa272f;
+    font-family: 'Handlee';
+    margin: 0px;
+}
+
+.pil {
+    position: fixed;
+    left: 10px;
+    top: 10px;
+  }
+
+.container {
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    background-color: rgba(204, 197, 160, 0.5);
+    border-left: solid 2px;
+    border-right: solid 2px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.rubrik {
+	text-align: center;
+	padding: 20px;
+	font-size: 50px;
+	font-weight: bold;
+	color: #aa272f;
+}
+img {
+    max-width: 50%; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+  }
+  .text {
+    padding: 40px;
+    font-size: 30px;
+  }
+  .citat {
+    font-size: 25px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-style: italic;
+  }
+  p {
+    font-size: 25px;
+    padding-left: 20px;
+    font-weight: bold;
+  }
+ 
