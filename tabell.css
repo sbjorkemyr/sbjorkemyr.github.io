@@ -1,7 +1,8 @@
 body {
     background-color: #aa272f;
-    font-family: 'Handlee';
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0px;
+    line-height: 40px;
 }
 
 .pil {
@@ -21,7 +22,7 @@ body {
 }
 .rubrik {
 	text-align: center;
-	padding: 20px;
+	padding: 50px;
 	font-size: 50px;
 	font-weight: bold;
 	color: #aa272f;
@@ -33,18 +34,17 @@ img {
     margin: 0 auto; 
   }
   .text {
-    padding: 40px;
+    padding: 50px;
     font-size: 30px;
   }
   .citat {
     font-size: 25px;
-    padding-left: 60px;
-    padding-right: 60px;
+    margin-left: 80px;
+    margin-right: 80px;
     font-style: italic;
   }
   p {
     font-size: 25px;
-    padding-left: 20px;
+    margin-left: 50px;
     font-weight: bold;
-  }
- 
+  } 
